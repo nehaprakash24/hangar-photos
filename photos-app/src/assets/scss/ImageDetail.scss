@@ -1,0 +1,33 @@
+.history {
+  font-weight: 300;
+  font-size: 10px;
+  line-height: 140%;
+  letter-spacing: 0.04em;
+}
+
+.description-enter {
+  opacity: 0.01;
+  transform: scale(1.4);
+}
+
+.description-enter-active {
+  opacity: 1;
+  transform: scale(1);
+  transition: all 300ms;
+}
+
+.description-exit {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.description-exit-active {
+  opacity: 0.01;
+  transform: scale(1.1);
+  transition: all 300ms;
+}
+
+.close {
+  font-size: 14px;
+  font-weight: unset;
+}

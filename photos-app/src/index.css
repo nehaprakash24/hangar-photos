@@ -1,12 +1,12 @@
+@import "./assets/fonts/index.css";
 body,
 html,#root {
   height: 100%;
   position: relative;
+  font-family: "Aileron";
 }
 
 .App{
   height: 100%;
   position: relative;
 }
-
-
