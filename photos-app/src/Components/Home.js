@@ -10,7 +10,7 @@ export class Home extends Component {
     return (
       <div className = "mainclass">
         <div className = "home">
-          <Link to = "/search">
+          <Link to = {process.env.PUBLIC_URL + '/search'}>
             <img src = {HangarLogo} alt = "Hangar Logo" className="img-fluid"/>
           </Link>
         </div>

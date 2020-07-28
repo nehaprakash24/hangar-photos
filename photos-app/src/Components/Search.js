@@ -150,7 +150,7 @@ class Search extends Component {
         <div className = "home-search">
 
           <div className = "row mx-0 justify-content-center py-4 px-5">
-            <Link to = "/">
+            <Link to = { process.env.PUBLIC_URL + '/'}>
               <img src = {Arrow} alt="arrow" />
             </Link>  
           </div>
