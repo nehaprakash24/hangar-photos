@@ -9,7 +9,7 @@ function App() {
   return (
     <div className = "App">
       <Router className = "router-height">
-        <Home path = "/" />
+        <Home path = {process.env.PUBLIC_URL + '/'} />
         <Search path = "/search" />
       </Router>
     </div>
