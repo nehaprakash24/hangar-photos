@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cc499773129181b19a28addbcc203f12",
+    "revision": "37d84e6fdf1f4ff143ca18e31f21cf07",
     "url": "/hangar-photos/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hangar-photos/static/css/2.f87e9f44.chunk.css"
   },
   {
-    "revision": "dd557dbe9519e7f5b119",
-    "url": "/hangar-photos/static/css/main.943f1780.chunk.css"
+    "revision": "91800c2f076cde9950fa",
+    "url": "/hangar-photos/static/css/main.a0ed9700.chunk.css"
   },
   {
     "revision": "86ee710b8e0d653cf94b",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hangar-photos/static/js/2.ed1ab23c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dd557dbe9519e7f5b119",
-    "url": "/hangar-photos/static/js/main.6fbd71bd.chunk.js"
+    "revision": "91800c2f076cde9950fa",
+    "url": "/hangar-photos/static/js/main.4e02252e.chunk.js"
   },
   {
     "revision": "a6b1e070f66117438216",
@@ -126,6 +126,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "778883f2dfc84bc7b789d1bc557bf7e7",
     "url": "/hangar-photos/static/media/arrow.778883f2.svg"
+  },
+  {
+    "revision": "29cc016cecb1a6f26c02b8e4cf7eb034",
+    "url": "/hangar-photos/static/media/bg-home.29cc016c.jpg"
+  },
+  {
+    "revision": "ecbf8d23bdf8f2c61dda18b3e7c3de6c",
+    "url": "/hangar-photos/static/media/bg-start.ecbf8d23.jpg"
   },
   {
     "revision": "c6d08ceb6819d2df8cb4e3be84cc372b",
